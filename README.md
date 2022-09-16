@@ -1,6 +1,6 @@
 # candyhierarchy2017
 **Here's the candy data, collected through a survey of people's taste in chocolate before Halloween.**
-It is a very good data cleaning practice.
+<br>It is a very good data cleaning practice.
 
 ###### Top 10 loved chocolates
 * Any full-sized candy bar
