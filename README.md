@@ -18,6 +18,7 @@
 * Q10-Dress: Binary field. Missing values present
 * Unnamed: 113
 * Q11-Day: Binary Answer Field. Missing values present
+###### atfer cleaning the data i found out:
 
 ###### Top 10 loved chocolates
 * Any full-sized candy bar
