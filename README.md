@@ -1,7 +1,7 @@
 # candyhierarchy2017
 **Here's the candy data, collected through a survey of people's taste in chocolate before Halloween.**
 <br>It is a very good data cleaning practice.
-<br>
+<br><br>
 **Dataset Description**
 <br>i will go through candy data 2017 , this data has :
 
